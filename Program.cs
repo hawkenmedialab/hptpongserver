@@ -10,7 +10,7 @@ namespace Server
     {
         static void Main(string[] args)
         {
-            System.Console.Write("Hello");
+            Console.Write("Hello");
         }
     }
 }
