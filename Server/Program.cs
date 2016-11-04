@@ -4,14 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace PongServer
+namespace Server
 {
     class Program
     {
         static void Main(string[] args)
         {
-            System.Console.WriteLine("Hello World!");
-            Console.Read();
+            System.Console.Write("Hello");
         }
     }
 }
